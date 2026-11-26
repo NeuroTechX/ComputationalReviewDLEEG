@@ -31,7 +31,7 @@ project:
     - https://github.com/AllenNeuralDynamics/AuthorshipExtractor/releases/latest/download/authorship-plugin.mjs
     - plugins/evidence-explorer-plugin.mjs
     - plugins/figure-lightbox-plugin.mjs
-  github: https://github.com/m9h/ComputationalReviewDLEEG
+  github: https://github.com/NeuroTechX/ComputationalReviewDLEEG
   bibliography:
     - content/references.bib
   toc:
@@ -55,4 +55,4 @@ site:
   title: "Deep Learning for EEG: A Computational Review"
   nav:
     - title: GitHub
-      url: https://github.com/m9h/ComputationalReviewDLEEG
+      url: https://github.com/NeuroTechX/ComputationalReviewDLEEG

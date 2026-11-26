@@ -3,7 +3,7 @@
 An AI-assisted critical literature review that follows up Roy, Banville, Albuquerque,
 Gramfort, Falk and Faubert, "Deep learning-based electroencephalography analysis: a
 systematic review", *J. Neural Eng.* 16 (2019) 051001. Site:
-https://m9h.github.io/ComputationalReviewDLEEG/ (once deployed).
+https://neurotechx.github.io/ComputationalReviewDLEEG/ (once deployed).
 
 Created from [ComputationalReviewTemplate](https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate)
 (Lecoq, 2026). The rest of this README is the template's own documentation.
