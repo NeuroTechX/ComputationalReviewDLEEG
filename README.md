@@ -5,8 +5,18 @@ Gramfort, Falk and Faubert, "Deep learning-based electroencephalography analysis
 systematic review", *J. Neural Eng.* 16 (2019) 051001. Site:
 https://neurotechx.github.io/ComputationalReviewDLEEG/ (once deployed).
 
-Created from [ComputationalReviewTemplate](https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate)
-(Lecoq, 2026). The rest of this README is the template's own documentation.
+A [NeuroTechX](https://github.com/NeuroTechX) project. It builds on:
+
+- [MOABB](https://github.com/NeuroTechX/moabb), the Mother of All BCI Benchmarks
+  ([10.5281/zenodo.10034223](https://doi.org/10.5281/zenodo.10034223))
+- [braindecode](https://github.com/braindecode/braindecode) and its EEG foundation-model wrappers
+- [Open EEG Bench](https://github.com/braindecode/OpenEEGBench), parameter-efficient fine-tuning
+  benchmarks for EEG foundation models ([10.5281/zenodo.19698863](https://doi.org/10.5281/zenodo.19698863))
+- the 2019 review's data tables, [hubertjb/dl-eeg-review](https://github.com/hubertjb/dl-eeg-review)
+- [ComputationalReviewTemplate](https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate)
+  (Lecoq, 2026), the review pipeline itself
+
+The rest of this README is the template's own documentation.
 
 ---
 
