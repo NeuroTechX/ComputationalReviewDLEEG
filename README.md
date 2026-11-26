@@ -12,6 +12,10 @@ A [NeuroTechX](https://github.com/NeuroTechX) project. It builds on:
 - [braindecode](https://github.com/braindecode/braindecode) and its EEG foundation-model wrappers
 - [Open EEG Bench](https://github.com/braindecode/OpenEEGBench), parameter-efficient fine-tuning
   benchmarks for EEG foundation models ([10.5281/zenodo.19698863](https://doi.org/10.5281/zenodo.19698863))
+- the [EEG/EMG Foundation Challenge 2026](https://neural-interfaces26.github.io/) (NeurIPS 2026
+  Brain and Body Workshop; sponsored by Yneuro and Meta), with its
+  [benchmarks](https://github.com/neural-interfaces26/2026-competition), and its predecessors the
+  EEG Foundation Challenge 2025 and BEETL 2021
 - the 2019 review's data tables, [hubertjb/dl-eeg-review](https://github.com/hubertjb/dl-eeg-review)
 - [ComputationalReviewTemplate](https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate)
   (Lecoq, 2026), the review pipeline itself
