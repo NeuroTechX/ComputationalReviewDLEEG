@@ -2,12 +2,18 @@ version: 1
 extends:
   - content/authors.yml
 project:
-  title: "REVIEW TITLE — Update in myst.yml"
+  title: "Deep Learning for EEG Analysis, 2019-2026: A Critical Review Since Roy et al. (2019)"
   subtitle: A Reproducible Computational Review
   description: >
-    Update this description for your review topic.
+    An AI-assisted critical review of deep learning for electroencephalography (EEG)
+    since the Roy et al. (2019) systematic review: datasets and evaluation practice,
+    architectures, self-supervised and foundation models, clinical and BCI
+    applications, generalisation, interpretability and reproducibility.
   keywords:
-    - neuroscience
+    - EEG
+    - deep learning
+    - brain-computer interfaces
+    - foundation models
     - critical review
     - reproducible research
   license: MIT
@@ -25,7 +31,7 @@ project:
     - https://github.com/AllenNeuralDynamics/AuthorshipExtractor/releases/latest/download/authorship-plugin.mjs
     - plugins/evidence-explorer-plugin.mjs
     - plugins/figure-lightbox-plugin.mjs
-  github: https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate
+  github: https://github.com/m9h/ComputationalReviewDLEEG
   bibliography:
     - content/references.bib
   toc:
@@ -46,7 +52,7 @@ project:
       template: ./latex/template
 site:
   template: book-theme
-  title: "Computational Review"
+  title: "Deep Learning for EEG: A Computational Review"
   nav:
     - title: GitHub
-      url: https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate
+      url: https://github.com/m9h/ComputationalReviewDLEEG

@@ -7,11 +7,6 @@ project:
       city: San Francisco
       state: California
       country: United States
-    - id: aind
-      name: Allen Institute for Neural Dynamics
-      city: Seattle
-      state: Washington
-      country: United States
 
   contributors:
     - id: ai-pipeline
@@ -26,7 +21,6 @@ project:
       affiliations:
         - anthropic
       first_name: Claude
-      last_name: Opus 4.6
       career_stage: AI Research Tool
       is_ai_tool: true
       credit_levels:
@@ -50,32 +44,25 @@ project:
           description: Drafted all sections from evidence packages under orchestrator constraints
           effort: lead
 
-    - id: jerome-lecoq
-      name: Jérôme Lecoq
+    - id: morgan-hough
+      name: Morgan Hough
       corresponding: true
-      email: jerome.lecoq@alleninstitute.org
       roles:
         - Conceptualization
         - Methodology
-        - Software
         - Supervision
         - Writing – review & editing
-      affiliations:
-        - aind
-      first_name: Jérôme
-      last_name: Lecoq
-      career_stage: Principal Investigator
+      first_name: Morgan
+      last_name: Hough
+      career_stage: Researcher
       is_ai_tool: false
       credit_levels:
         - role: Conceptualization
           level: lead
           description: Defined the review scope, framing, and evidence standards
         - role: Methodology
-          level: lead
-          description: Designed the computational review and validation workflow
-        - role: Software
-          level: lead
-          description: Developed and maintained the review pipeline tooling
+          level: supporting
+          description: Adapted the computational review workflow to this topic
         - role: Supervision
           level: lead
           description: Supervised pipeline execution and approved phase outputs

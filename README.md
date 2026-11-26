@@ -1,6 +1,14 @@
-# Computational Review Template
+# Deep Learning for EEG Analysis, 2019-2026: A Critical Review Since Roy et al. (2019)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21213212.svg)](https://doi.org/10.5281/zenodo.21213212)
+An AI-assisted critical literature review that follows up Roy, Banville, Albuquerque,
+Gramfort, Falk and Faubert, "Deep learning-based electroencephalography analysis: a
+systematic review", *J. Neural Eng.* 16 (2019) 051001. Site:
+https://m9h.github.io/ComputationalReviewDLEEG/ (once deployed).
+
+Created from [ComputationalReviewTemplate](https://github.com/AllenNeuralDynamics/ComputationalReviewTemplate)
+(Lecoq, 2026). The rest of this README is the template's own documentation.
+
+---
 
 Template repository for producing comprehensive AI-assisted critical literature reviews using the Expert Review Pipeline v30.
 
@@ -234,22 +242,8 @@ MIT
 
 ## How to Cite
 
-If you use this template in your research, please cite:
+No DOI has been minted for this review yet. Until one is, cite the repository URL.
 
-```bibtex
-@software{lecoq_2026_21213212,
-  author       = {Jérôme Lecoq},
-  title        = {AllenNeuralDynamics/ComputationalReviewTemplate},
-  year         = 2026,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21213212},
-  url          = {https://doi.org/10.5281/zenodo.21213212}
-}
-```
+This review was produced with the Computational Review Template:
 
 > Lecoq, J. (2026). *AllenNeuralDynamics/ComputationalReviewTemplate*. Zenodo. https://doi.org/10.5281/zenodo.21213212
-
-That DOI is the *concept* DOI: it always resolves to the most recent release, so it needs no
-update when a version is cut. To cite one specific version instead, take that version's own
-DOI from the Zenodo record.
-
